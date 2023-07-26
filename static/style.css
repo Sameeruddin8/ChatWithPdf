@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.input-container {
+  margin-bottom: 20px;
+}
+
+.input-container label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.input-container input[type="file"],
+.input-container input[type="text"],
+.input-container button {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #df0000;
+  border-radius: 4px;
+}
+
+/* You can add more CSS styling here to customize the appearance further. */
