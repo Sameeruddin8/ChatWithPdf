@@ -49,8 +49,9 @@ def submit():
             with get_openai_callback() as cb:
                 response = chain.run(input_documents=docs, question=user_question)
                 print(cb)
-            return response
-    return "Invalid PDF file or question."
-
+            # return response
+    else:
+        return "Invalid PDF file or question."
+    return render_template("index.html", response = response)
 if __name__ == '__main__':
     app.run(debug=True)

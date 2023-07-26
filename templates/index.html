@@ -1,16 +1,22 @@
 <!DOCTYPE html>
 <html>
+
 <head>
   <title>ASK YOUR PDF 💬</title>
+  <link rel="stylesheet" type="text/css" href="../static/style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
 </head>
+
 <body>
-  <h1>ASK YOUR PDF 💬</h1>
+  <h1 class="animate__animated animate__backInLeft">ASK YOUR PDF 💬</h1>
   <form method="post" enctype="multipart/form-data" action="/submit">
-    <label for="pdf">Upload Your PDF:</label>
-    <input type="file" id="pdf" name="pdf"><br><br>
-    <label for="user_question">Ask the question about your PDF:</label>
-    <input type="text" id="user_question" name="user_question"><br><br>
-    <input type="submit" value="Submit">
+    <label for="pdf"><center>Upload Your PDF</center></label>
+    <input type="file" id="pdf" name="pdf">
+    <label for="user_question"><center>Ask the question about your PDF</center></label>
+    <input type="text" id="user_question" name="user_question">
+    <input type="submit" value="Submit" class="btn">
   </form>
+  <h1>{{response}}</h1>
 </body>
+
 </html>

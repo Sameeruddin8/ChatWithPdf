@@ -1,30 +1,52 @@
 body {
-  font-family: Arial, sans-serif;
-  margin: 20px;
+  background: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+  font-family: 'Poppins', sans-serif;
+  color: #333;
 }
 
-.container {
-  max-width: 400px;
-  margin: 0 auto;
+h1 {
+  font-size: 3rem;
+  text-align: center;
+  animation: bounceIn 1s ease-out;
 }
 
-.input-container {
-  margin-bottom: 20px;
+form {
+  max-width: 500px;
+  margin: 50px auto;
+  border: 2px solid #fff;
+  padding: 20px;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.1);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
 }
 
-.input-container label {
+label,
+input,
+.btn {
   display: block;
-  margin-bottom: 5px;
-}
-
-.input-container input[type="file"],
-.input-container input[type="text"],
-.input-container button {
   width: 100%;
   padding: 10px;
-  font-size: 16px;
-  border: 1px solid #df0000;
-  border-radius: 4px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  border: none;
+  outline: none;
+  background: rgba(255, 255, 255, 0.2);
+  border-bottom: 1px solid #eee;
+  font-weight: bold;
 }
 
-/* You can add more CSS styling here to customize the appearance further. */
+input[type="file"] {
+  border-bottom: 0;
+}
+
+.btn {
+  background: #f9748f;
+  color: #fff;
+  font-size: 1.2rem;
+  cursor: pointer;
+  transition: background 0.2s ease-out;
+}
+
+.btn:hover {
+  background: #fd868c;
+}
