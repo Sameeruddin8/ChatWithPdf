@@ -9,6 +9,12 @@ h1 {
   text-align: center;
   animation: bounceIn 1s ease-out;
 }
+p{
+    font-size: 3rem;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    animation: bounceOut 1s ease-out;
+}
 
 form {
   max-width: 500px;
