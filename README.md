@@ -1,10 +1,10 @@
-# CHATWITHPDF
+# CHATTERPDF
 
 ![Project Logo](/path/to/logo.png) <!-- Insert your project logo here -->
 
 ## Introduction
 
-CHATWITHPDF is a web application that leverages the power of OpenAI API to enable users to interact with PDF documents using natural language. It utilizes Flask as the backend server to handle user requests and OpenAI API for natural language processing. The frontend of the application is built using HTML and CSS, providing an intuitive user interface for seamless interactions.
+CHATTERHPDF is a web application that leverages the power of OpenAI API to enable users to interact with PDF documents using natural language. It utilizes Flask as the backend server to handle user requests and OpenAI API for natural language processing. The frontend of the application is built using HTML and CSS, providing an intuitive user interface for seamless interactions.
 
 ## Demo
 
@@ -20,7 +20,7 @@ CHATWITHPDF is a web application that leverages the power of OpenAI API to enabl
 
 ## Installation
 
-To run CHATWITHPDF locally, follow these steps:
+To run CHATTERPDF locally, follow these steps:
 
 1. Clone the repository:
 
@@ -39,12 +39,6 @@ To run CHATWITHPDF locally, follow these steps:
    # For Windows
    python -m venv venv
    venv\Scripts\activate
-   ```
-
-3. Install dependencies:
-
-   ```
-   pip install -r requirements.txt
    ```
 
 ## Usage
@@ -74,6 +68,6 @@ To run CHATWITHPDF locally, follow these steps:
 
 ## Conclusion
 
-CHATWITHPDF brings the power of natural language processing to PDF interactions, making it convenient and straightforward for users to interact with PDF documents. The integration of OpenAI API allows for accurate and efficient processing of user queries. The application's user-friendly interface ensures a seamless experience for users of all backgrounds.
+CHATTERPDF brings the power of natural language processing to PDF interactions, making it convenient and straightforward for users to interact with PDF documents. The integration of OpenAI API allows for accurate and efficient processing of user queries. The application's user-friendly interface ensures a seamless experience for users of all backgrounds.
 
-Give CHATWITHPDF a try and make your PDF interactions more intuitive than ever before! Feel free to contribute to the project by submitting pull requests or reporting issues. Happy interacting! 😊
+Give CHATTERPDF a try and make your PDF interactions more intuitive than ever before! Feel free to contribute to the project by submitting pull requests or reporting issues. Happy interacting! 😊
