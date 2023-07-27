@@ -8,6 +8,7 @@ h1 {
   font-size: 3rem;
   text-align: center;
   animation: bounceIn 1s ease-out;
+  font-family: 'Times New Roman', Times, serif;
 }
 p{
     font-size: 3rem;
