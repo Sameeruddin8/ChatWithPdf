@@ -1,6 +1,7 @@
 # CHATTERPDF
 
-![Project Logo](/path/to/logo.png) <!-- Insert your project logo here -->
+![image](https://github.com/Sameeruddin8/ChatWithPdf/assets/102674044/ee088225-3bce-4819-8de6-c8472db16e21)
+
 
 ## Introduction
 
