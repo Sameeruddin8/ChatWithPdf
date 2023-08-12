@@ -9,9 +9,8 @@ CHATTERHPDF is a web application that leverages the power of OpenAI API to enabl
 
 ## Demo
 
-<!-- Insert a short demonstration video of your project in action. You can either embed the video from YouTube or any other video hosting platform or provide a link to it. -->
+![ASK YOUR PDF 💬 - Google Chrome 2023-08-12 15-59-31](https://github.com/Sameeruddin8/ChatWithPdf/assets/102674044/8b013202-ada4-41ef-80db-64746a3f42c5)
 
-[![Demo Video](/path/to/demo_video_thumbnail.png)](https://www.youtube.com/watch?v=your_video_id) <!-- Replace "your_video_id" with the actual video ID -->
 
 ## Features
 
