@@ -55,10 +55,6 @@ To run CHATTERPDF locally, follow these steps:
 
 4. Interact with the PDF by typing natural language queries.
 
-## Screenshots
-
-<!-- Insert relevant screenshots of your web application here, showcasing its features and functionality. -->
-
 ## Dependencies
 
 - Flask
