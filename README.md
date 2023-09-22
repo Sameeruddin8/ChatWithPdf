@@ -1,6 +1,7 @@
 # CHATTERPDF
 
-![image](https://github.com/Sameeruddin8/ChatWithPdf/assets/102674044/ee088225-3bce-4819-8de6-c8472db16e21)
+![image](https://github.com/Sameeruddin8/ChatWithPdf/assets/102674044/11f56c92-e131-497f-8fed-48ed85ee6405)
+
 
 
 ## Introduction
