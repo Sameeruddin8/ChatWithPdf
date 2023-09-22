@@ -6,7 +6,7 @@
 
 ## Introduction
 
-CHATTERHPDF is a web application that leverages the power of OpenAI API to enable users to interact with PDF documents using natural language. It utilizes Flask as the backend server to handle user requests and OpenAI API for natural language processing. The frontend of the application is built using HTML and CSS, providing an intuitive user interface for seamless interactions.
+CHATTERPDF is a web application that leverages the power of OpenAI API to enable users to interact with PDF documents using natural language. It utilizes Flask as the backend server to handle user requests and OpenAI API for natural language processing. The frontend of the application is built using HTML and CSS, providing an intuitive user interface for seamless interactions.
 
 ## Demo
 
